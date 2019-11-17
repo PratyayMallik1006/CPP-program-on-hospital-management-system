@@ -1,0 +1,5 @@
+Maintaining a proper record of the patient is quite important for the management of a hospital.
+In earlier days the in formations regarding patents were recorded in registers, which occupied too much to space for a small amount of data, alteration and deletion was not possible and records were perilous.
+But nowadays advanced computer programs are been used for doing the same in a much more efficient way, 
+Now data of thousands of patients can be recorded in just a DVD, in which alteration and deletion can be easily performed and most importantly they are secure from getting disintegrated and form malicious activities.
+Such advanced record management system can be easily programmed in C++ language.
